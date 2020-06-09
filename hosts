@@ -6,19 +6,13 @@
 ##
 127.0.0.1	localhost
 127.0.0.1	mac-braz.local
-127.0.0.1   api-andersonbraz.local
-127.0.0.1   api-directus.local
 127.0.0.1   bizpage.local
-127.0.0.1   blog-andersonbraz.local
 127.0.0.1   devblog.local
 127.0.0.1   devbook.local
 127.0.0.1   devconf.local
 127.0.0.1   directus.local
 127.0.0.1   grav.local
-127.0.0.1   hotdoy.local
-127.0.0.1   medilink.local
-127.0.0.1   multiverse.local
-127.0.0.1   site-andersonbraz.local
+127.0.0.1   andersonbraz.local
 255.255.255.255	broadcasthost
 ::1             localhost
 # Added by Docker Desktop
